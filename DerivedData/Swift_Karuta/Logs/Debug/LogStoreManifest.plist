@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>245606A0-37D8-4380-A6EC-1CD311726640</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>245606A0-37D8-4380-A6EC-1CD311726640.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609519882.68739295</real>
+			<key>timeStoppedRecording</key>
+			<real>609520296.94892597</real>
+			<key>title</key>
+			<string>Debug Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>245606A0-37D8-4380-A6EC-1CD311726640</string>
+		</dict>
+		<key>44F8522D-A54C-4CDA-A0F8-135CF3050DD0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>44F8522D-A54C-4CDA-A0F8-135CF3050DD0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609519178.44116402</real>
+			<key>timeStoppedRecording</key>
+			<real>609519877.12562597</real>
+			<key>title</key>
+			<string>Debug Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>44F8522D-A54C-4CDA-A0F8-135CF3050DD0</string>
+		</dict>
+		<key>ADA8BAAC-E1A8-4431-AFD6-6C14BE91C8A5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ADA8BAAC-E1A8-4431-AFD6-6C14BE91C8A5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609520312.16795003</real>
+			<key>timeStoppedRecording</key>
+			<real>609520401.55473602</real>
+			<key>title</key>
+			<string>Debug Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>ADA8BAAC-E1A8-4431-AFD6-6C14BE91C8A5</string>
+		</dict>
+		<key>D51933A2-5D37-45CE-AE89-FEE66C974FBC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D51933A2-5D37-45CE-AE89-FEE66C974FBC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609520299.27246296</real>
+			<key>timeStoppedRecording</key>
+			<real>609520310.44270098</real>
+			<key>title</key>
+			<string>Debug Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>D51933A2-5D37-45CE-AE89-FEE66C974FBC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

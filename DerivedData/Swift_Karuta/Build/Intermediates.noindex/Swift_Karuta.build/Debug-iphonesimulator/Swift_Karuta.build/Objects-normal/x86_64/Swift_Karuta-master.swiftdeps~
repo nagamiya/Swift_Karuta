@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "54a268b3e30e4ae89a9b3206e2f1d197"
+build_time: [1587827510, 596693000]
+inputs:
+  "/Users/nagamiya/iPhone/Swift_Karuta/Swift_Karuta/PlayKaruta.swift": [1587827357, 396422299]
+  "/Users/nagamiya/iPhone/Swift_Karuta/Swift_Karuta/ViewController.swift": [1587740118, 725658390]
+  "/Users/nagamiya/iPhone/Swift_Karuta/Swift_Karuta/AppDelegate.swift": [1587739885, 439729521]
+  "/Users/nagamiya/iPhone/Swift_Karuta/Swift_Karuta/ShowResult.swift": [1587827510, 454761140]

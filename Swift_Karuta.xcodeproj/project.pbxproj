@@ -14,6 +14,8 @@
 		C3807A742453347000DA3D55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3807A722453347000DA3D55 /* LaunchScreen.storyboard */; };
 		C3807A7F2453347100DA3D55 /* Swift_KarutaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3807A7E2453347100DA3D55 /* Swift_KarutaTests.swift */; };
 		C3807A8A2453347100DA3D55 /* Swift_KarutaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3807A892453347100DA3D55 /* Swift_KarutaUITests.swift */; };
+		C3807A98245484CB00DA3D55 /* PlayKaruta.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3807A97245484CB00DA3D55 /* PlayKaruta.swift */; };
+		C3807A9A24548A4700DA3D55 /* ShowResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3807A9924548A4700DA3D55 /* ShowResult.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		C3807A852453347100DA3D55 /* Swift_KarutaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Swift_KarutaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3807A892453347100DA3D55 /* Swift_KarutaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_KarutaUITests.swift; sourceTree = "<group>"; };
 		C3807A8B2453347100DA3D55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3807A97245484CB00DA3D55 /* PlayKaruta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayKaruta.swift; sourceTree = "<group>"; };
+		C3807A9924548A4700DA3D55 /* ShowResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				C3807A702453347000DA3D55 /* Assets.xcassets */,
 				C3807A722453347000DA3D55 /* LaunchScreen.storyboard */,
 				C3807A752453347000DA3D55 /* Info.plist */,
+				C3807A97245484CB00DA3D55 /* PlayKaruta.swift */,
+				C3807A9924548A4700DA3D55 /* ShowResult.swift */,
 			);
 			path = Swift_Karuta;
 			sourceTree = "<group>";
@@ -256,8 +262,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3807A98245484CB00DA3D55 /* PlayKaruta.swift in Sources */,
 				C3807A6C2453346D00DA3D55 /* ViewController.swift in Sources */,
 				C3807A6A2453346D00DA3D55 /* AppDelegate.swift in Sources */,
+				C3807A9A24548A4700DA3D55 /* ShowResult.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
