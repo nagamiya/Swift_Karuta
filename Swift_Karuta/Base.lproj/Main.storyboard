@@ -10,25 +10,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
-        <scene sceneID="tne-QT-ifu">
-            <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Swift_Karuta" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-812" y="-163"/>
-        </scene>
         <!--Result-->
         <scene sceneID="4A8-Ie-xbE">
             <objects>
-                <viewController id="Etd-MK-U0z" sceneMemberID="viewController">
+                <viewController title="Result" id="Etd-MK-U0z" customClass="ShowResult" customModule="Swift_Karuta" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="10G-60-dtC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -44,7 +29,7 @@
         <!--Play-->
         <scene sceneID="PL5-n5-eCF">
             <objects>
-                <viewController id="ZJI-sP-EQe" customClass="PlayKaruta" customModule="Swift_Karuta" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Play" id="ZJI-sP-EQe" customClass="PlayKaruta" customModule="Swift_Karuta" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kUK-cZ-U6B">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -60,6 +45,7 @@
         <!--Tab Bar Controller-->
         <scene sceneID="ukf-Rc-kZy">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qaG-Lv-ANT" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <tabBarController id="3Kh-8v-gO6" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="GBJ-91-Pq0">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
@@ -71,7 +57,6 @@
                         <segue destination="Etd-MK-U0z" kind="relationship" relationship="viewControllers" id="0XG-81-jA1"/>
                     </connections>
                 </tabBarController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="qaG-Lv-ANT" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-83" y="-163"/>
         </scene>

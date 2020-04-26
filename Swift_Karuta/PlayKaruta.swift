@@ -15,13 +15,16 @@ class PlayKaruta: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        
+        layout()
+    }
+    
+    
+    // 画面構築
+    func layout(){
         pageLabel = UILabel()
         pageLabel!.frame = CGRect(x:20, y:80, width:self.view.bounds.size.width, height:20)
         pageLabel!.text = "Tab1"
         self.view.addSubview(pageLabel!)
-        
-        
     }
     
 
