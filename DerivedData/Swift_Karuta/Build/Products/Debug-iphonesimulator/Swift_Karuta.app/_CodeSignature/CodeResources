@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		mS1TMTu8siL2wKMon6kILaQVwp8=
+		qJbEkegaw0Au5BDg4rNxL1GhLCk=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		In6Xu19QepMZfIVG0q79EFvzxBY=
+		hLNlw7954jS4rDOHWwmF+h55DOY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Etd-MK-U0z-view-10G-60-dtC.nib</key>
 		<data>
-		CAkpIYNJsKNa7oqT0mrmg6Z+qQM=
+		WENA1gywZJiSjUHoAGmGCNOLuts=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,23 +26,23 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/PlayKaruta.nib</key>
 		<data>
-		w1GThQVLsR3dESUAatED0o1bpTM=
+		TkRJFoXuhpZbURfIREiPbzRUE50=
 		</data>
 		<key>Base.lproj/Main.storyboardc/TabBarController.nib</key>
 		<data>
-		boSlB3gY1BRTfmEElCXHgaI88fM=
+		WW2GiQU7jVQtoA7QdZB6wgEz+Y4=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-b3i-OQ-Afc.nib</key>
 		<data>
-		5ekM2rRE+TZdOt6Mv9gTiKSkS8o=
+		opbj2K+g58G4iXk4Djf83loUKoQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/ZJI-sP-EQe-view-kUK-cZ-U6B.nib</key>
 		<data>
-		MnQfN8FwVTG8WJAqr3DAeOgjLbU=
+		YjqHR1jNqPtFHoNMX6Dqlib+pXs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/b3i-OQ-Afc-view-pQx-jc-eJR.nib</key>
 		<data>
-		v89fywrzHi6CTlliRv64hXdPjNk=
+		EQIwDuKHSydh450V1FR8YKTmqwk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vJmkBlx9BQhQHY+u4ESOXTK7g5JXQHeMDtj8FwXyy1I=
+			smo0Oo+u/e5facBDkW0LTCN95D4Gtx17cAsgibkyjx8=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fGJylvLcCJ8oMVVIrdjL+EMMmOo82qQDhGEIoWZ/PFg=
+			+OrNHiOgMt5YgRQMz7rejG5bEDPjsAQePx6dZijoEms=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Etd-MK-U0z-view-10G-60-dtC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3schw5r/KRUb4rZh7Js9WMJ8w6hPB3fiO3Uqbm9y7sU=
+			i6Tjl+OuZwU/AoHZYo3QgWvSIPCaEXhLxSyRDANUDes=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -106,35 +106,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d6Ua3iYMogDJR+fV3emIMsCB/sSLSLRu4o5bqJuF5Z4=
+			13DRIfutenMGs9yDA2d7ubX5UX7O+RIpmzXNqSAeQX8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/TabBarController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mq5OJYlUsOWoCfYngdgFzmib9OvwzsueWQyRdjQ7osE=
+			KDRsaiAbggATbWpbGcjXkcpH5Nz3YkBhR7VqNX+bm2s=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-b3i-OQ-Afc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vw4YKN0P02fzvfI4OVDXxBKMEabHUgM8XXCRSTwAylk=
+			PXWVmEQgbrVy4cu1UYqUQkrPXrXOAjE4XTyxf1KqEpI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/ZJI-sP-EQe-view-kUK-cZ-U6B.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yscfhjd5CI8cP1n4P2n7VOYl92C+GFIH641DAJrg4Oc=
+			1DqTLQhQF06N/T0SdkYmbJQPUghZHl/Dj+tlmfOtsbI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/b3i-OQ-Afc-view-pQx-jc-eJR.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/nYRuCuuUg+PHOelxzA7NHKwz0kl26KOtWKiSsbArog=
+			cQarapbAblkzdX18RM/wacBDgPMCZ/24TBgxWTdtBpg=
 			</data>
 		</dict>
 		<key>SwiftKaruta-Cover.png</key>

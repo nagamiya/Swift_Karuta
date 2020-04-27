@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>C8C1BF86-2115-4162-8948-20635FE25A9F</key>
+		<key>12103E8F-2087-4E8B-8B99-8C4854D2B1FC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>C8C1BF86-2115-4162-8948-20635FE25A9F.xcactivitylog</string>
+			<string>12103E8F-2087-4E8B-8B99-8C4854D2B1FC.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -24,13 +24,13 @@
 			<key>signature</key>
 			<string>Swift_Karuta-acdmsqkirmkokyavepctzgskrcac</string>
 			<key>timeStartedRecording</key>
-			<real>609665435.756019</real>
+			<real>609668222.92367005</real>
 			<key>timeStoppedRecording</key>
-			<real>609665436.18657899</real>
+			<real>609668227.34350002</real>
 			<key>title</key>
 			<string>Build target Swift_Karuta</string>
 			<key>uniqueIdentifier</key>
-			<string>C8C1BF86-2115-4162-8948-20635FE25A9F</string>
+			<string>12103E8F-2087-4E8B-8B99-8C4854D2B1FC</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

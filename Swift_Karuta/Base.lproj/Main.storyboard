@@ -49,12 +49,6 @@
                     <view key="view" contentMode="scaleToFill" id="pQx-jc-eJR">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="SwiftKaruta-Cover.png" translatesAutoresizingMaskIntoConstraints="NO" id="XFe-rv-uyp">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="p0f-Lb-T9a"/>
                     </view>
@@ -82,7 +76,4 @@
             <point key="canvasLocation" x="-83" y="-163"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="SwiftKaruta-Cover.png" width="231.42857360839844" height="501.1199951171875"/>
-    </resources>
 </document>

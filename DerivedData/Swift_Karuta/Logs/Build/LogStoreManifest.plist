@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4AB88D68-AAD1-44F9-8892-2C3CA9FC8890</key>
+		<key>029DF119-4F2B-4DEA-A5BD-3E6E81405E3F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,11 +15,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4AB88D68-AAD1-44F9-8892-2C3CA9FC8890.xcactivitylog</string>
+			<string>029DF119-4F2B-4DEA-A5BD-3E6E81405E3F.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Swift_Karuta project</string>
@@ -30,15 +30,15 @@
 			<key>signature</key>
 			<string>Build Swift_Karuta</string>
 			<key>timeStartedRecording</key>
-			<real>609665435.70878994</real>
+			<real>609519026.99640799</real>
 			<key>timeStoppedRecording</key>
-			<real>609665436.242275</real>
+			<real>609519027.16975105</real>
 			<key>title</key>
 			<string>Build Swift_Karuta</string>
 			<key>uniqueIdentifier</key>
-			<string>4AB88D68-AAD1-44F9-8892-2C3CA9FC8890</string>
+			<string>029DF119-4F2B-4DEA-A5BD-3E6E81405E3F</string>
 		</dict>
-		<key>F4CAEF59-5283-4E4E-807B-C1E115A0F036</key>
+		<key>420699BF-C233-4A8E-88FE-DFED087DC0EF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -47,7 +47,39 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F4CAEF59-5283-4E4E-807B-C1E115A0F036.xcactivitylog</string>
+			<string>420699BF-C233-4A8E-88FE-DFED087DC0EF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609665981.37952805</real>
+			<key>timeStoppedRecording</key>
+			<real>609665981.63464904</real>
+			<key>title</key>
+			<string>Clean Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>420699BF-C233-4A8E-88FE-DFED087DC0EF</string>
+		</dict>
+		<key>B5DE67F5-2EC4-4614-B9E6-F7B551BAD2CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5DE67F5-2EC4-4614-B9E6-F7B551BAD2CF.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -62,13 +94,141 @@
 			<key>signature</key>
 			<string>Build Swift_Karuta</string>
 			<key>timeStartedRecording</key>
-			<real>609665197.24816298</real>
+			<real>609668116.14186895</real>
 			<key>timeStoppedRecording</key>
-			<real>609665198.71991301</real>
+			<real>609668117.61879504</real>
 			<key>title</key>
 			<string>Build Swift_Karuta</string>
 			<key>uniqueIdentifier</key>
-			<string>F4CAEF59-5283-4E4E-807B-C1E115A0F036</string>
+			<string>B5DE67F5-2EC4-4614-B9E6-F7B551BAD2CF</string>
+		</dict>
+		<key>D7FB013C-F81C-4081-9819-C59B4010CF79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7FB013C-F81C-4081-9819-C59B4010CF79.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609665969.43445694</real>
+			<key>timeStoppedRecording</key>
+			<real>609665969.67771995</real>
+			<key>title</key>
+			<string>Build Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>D7FB013C-F81C-4081-9819-C59B4010CF79</string>
+		</dict>
+		<key>FC126AA4-EC4C-4DC3-9ECF-747DC194DB01</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC126AA4-EC4C-4DC3-9ECF-747DC194DB01.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609665988.18932998</real>
+			<key>timeStoppedRecording</key>
+			<real>609665994.92570198</real>
+			<key>title</key>
+			<string>Build Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>FC126AA4-EC4C-4DC3-9ECF-747DC194DB01</string>
+		</dict>
+		<key>FCBE95C6-74AB-4F4E-A4DC-F2AD64B1972B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCBE95C6-74AB-4F4E-A4DC-F2AD64B1972B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609668222.76713598</real>
+			<key>timeStoppedRecording</key>
+			<real>609668227.39856601</real>
+			<key>title</key>
+			<string>Build Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>FCBE95C6-74AB-4F4E-A4DC-F2AD64B1972B</string>
+		</dict>
+		<key>FE52C1FE-3FD5-4CDC-A61D-D082C0856A68</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE52C1FE-3FD5-4CDC-A61D-D082C0856A68.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609668132.68960094</real>
+			<key>timeStoppedRecording</key>
+			<real>609668134.02508605</real>
+			<key>title</key>
+			<string>Build Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>FE52C1FE-3FD5-4CDC-A61D-D082C0856A68</string>
 		</dict>
 	</dict>
 </dict>
