@@ -18,27 +18,47 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/Etd-MK-U0z-view-10G-60-dtC.nib</key>
 		<data>
-		RKiDvOAwqAjnqCYe+BICtwbSg7w=
+		CAkpIYNJsKNa7oqT0mrmg6Z+qQM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		i5lPlMRwZhNmH3Kbv/8NzgTWyU0=
+		h9etZ1jYsuiXCrbkU/c9/8tIV1w=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UITabBarController-3Kh-8v-gO6.nib</key>
+		<key>Base.lproj/Main.storyboardc/PlayKaruta.nib</key>
 		<data>
-		sHPfQDZZQoKt5OW9eyamZjZ5/E8=
+		w1GThQVLsR3dESUAatED0o1bpTM=
+		</data>
+		<key>Base.lproj/Main.storyboardc/TabBarController.nib</key>
+		<data>
+		boSlB3gY1BRTfmEElCXHgaI88fM=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UIViewController-b3i-OQ-Afc.nib</key>
+		<data>
+		5ekM2rRE+TZdOt6Mv9gTiKSkS8o=
 		</data>
 		<key>Base.lproj/Main.storyboardc/ZJI-sP-EQe-view-kUK-cZ-U6B.nib</key>
 		<data>
-		6uA5V71sfWEqNOBSG1sZAei7JWE=
+		MnQfN8FwVTG8WJAqr3DAeOgjLbU=
+		</data>
+		<key>Base.lproj/Main.storyboardc/b3i-OQ-Afc-view-pQx-jc-eJR.nib</key>
+		<data>
+		v89fywrzHi6CTlliRv64hXdPjNk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rLBeAvCFvRLUQJYVoJ4Jm4GBX2I=
+		1ukvodP4f+2C75ULm/cP1tJ+I7c=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>SwiftKaruta-Cover.png</key>
+		<data>
+		1Du6P9GyhqKRfr9RMjeDQJJI4y0=
+		</data>
+		<key>bananaslip.otf</key>
+		<data>
+		hpKw9Poj/7Dx08OdXyqBESipdSE=
 		</data>
 		<key>libswiftRemoteMirror.dylib</key>
 		<data>
@@ -72,28 +92,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1c/PleqDNcowvSNGWseB0ypB3fzqDF7bF4w3NG3/6qU=
+			3schw5r/KRUb4rZh7Js9WMJ8w6hPB3fiO3Uqbm9y7sU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			caL39vnfJ6GdrKDvLlEkIZRGVnoOo5WBd9v6w3+uDh0=
+			6DGn6+tksIQCGT9CZJDh1d7ApTsUnCTb+BUYWJOkVKo=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UITabBarController-3Kh-8v-gO6.nib</key>
+		<key>Base.lproj/Main.storyboardc/PlayKaruta.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			le5kSIGWnBQYZ+Zw4s+/EbNfm1WkkFYVfm5L/9IwHxU=
+			d6Ua3iYMogDJR+fV3emIMsCB/sSLSLRu4o5bqJuF5Z4=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/TabBarController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mq5OJYlUsOWoCfYngdgFzmib9OvwzsueWQyRdjQ7osE=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-b3i-OQ-Afc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vw4YKN0P02fzvfI4OVDXxBKMEabHUgM8XXCRSTwAylk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/ZJI-sP-EQe-view-kUK-cZ-U6B.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			28u4KPmMijqXd74g6RnihC+eZYYcFLWYI6SisLY++iU=
+			Yscfhjd5CI8cP1n4P2n7VOYl92C+GFIH641DAJrg4Oc=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/b3i-OQ-Afc-view-pQx-jc-eJR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/nYRuCuuUg+PHOelxzA7NHKwz0kl26KOtWKiSsbArog=
+			</data>
+		</dict>
+		<key>SwiftKaruta-Cover.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6m/OOMwUF8dJdsX4BUMeBo1r6/oBRhy5WBGv5N5Wsj8=
+			</data>
+		</dict>
+		<key>bananaslip.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			92xu3y/CS9X2h54V8JJ+fWW97hSpk1+oqkY/y2sEr7s=
 			</data>
 		</dict>
 		<key>libswiftRemoteMirror.dylib</key>

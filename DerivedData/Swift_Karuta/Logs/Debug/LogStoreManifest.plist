@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0254D856-D823-45BE-9E47-FAA53311B237</key>
+		<key>8221469D-1B8B-4E97-8A23-CEA557C1611E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0254D856-D823-45BE-9E47-FAA53311B237.xcactivitylog</string>
+			<string>8221469D-1B8B-4E97-8A23-CEA557C1611E.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,13 +30,45 @@
 			<key>signature</key>
 			<string>Debug Swift_Karuta</string>
 			<key>timeStartedRecording</key>
-			<real>609567478.54305995</real>
+			<real>609665198.67954195</real>
 			<key>timeStoppedRecording</key>
-			<real>609568909.07074797</real>
+			<real>609665376.14806604</real>
 			<key>title</key>
 			<string>Debug Swift_Karuta</string>
 			<key>uniqueIdentifier</key>
-			<string>0254D856-D823-45BE-9E47-FAA53311B237</string>
+			<string>8221469D-1B8B-4E97-8A23-CEA557C1611E</string>
+		</dict>
+		<key>A5883C62-C7C8-4A39-A3BD-DE74FD5B7FDA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A5883C62-C7C8-4A39-A3BD-DE74FD5B7FDA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift_Karuta project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift_Karuta</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Swift_Karuta</string>
+			<key>timeStartedRecording</key>
+			<real>609665436.19768906</real>
+			<key>timeStoppedRecording</key>
+			<real>609665448.21818399</real>
+			<key>title</key>
+			<string>Debug Swift_Karuta</string>
+			<key>uniqueIdentifier</key>
+			<string>A5883C62-C7C8-4A39-A3BD-DE74FD5B7FDA</string>
 		</dict>
 	</dict>
 </dict>

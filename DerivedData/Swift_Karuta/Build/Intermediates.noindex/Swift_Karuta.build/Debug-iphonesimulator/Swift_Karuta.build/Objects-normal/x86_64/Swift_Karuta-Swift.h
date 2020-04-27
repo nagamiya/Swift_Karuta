@@ -221,6 +221,7 @@ SWIFT_CLASS("_TtC12Swift_Karuta10ShowResult")
 SWIFT_CLASS("_TtC12Swift_Karuta14ViewController")
 @interface ViewController : UIViewController
 - (void)viewDidLoad;
+- (void)touch;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

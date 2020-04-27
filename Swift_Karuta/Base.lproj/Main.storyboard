@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3Kh-8v-gO6">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="b3i-OQ-Afc">
     <device id="retina6_1" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -29,7 +29,7 @@
         <!--Play-->
         <scene sceneID="PL5-n5-eCF">
             <objects>
-                <viewController title="Play" id="ZJI-sP-EQe" customClass="PlayKaruta" customModule="Swift_Karuta" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="PlayKaruta" title="Play" useStoryboardIdentifierAsRestorationIdentifier="YES" id="ZJI-sP-EQe" customClass="PlayKaruta" customModule="Swift_Karuta" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kUK-cZ-U6B">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -42,11 +42,31 @@
             </objects>
             <point key="canvasLocation" x="836" y="-488"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="3qC-ng-10W">
+            <objects>
+                <viewController id="b3i-OQ-Afc" customClass="ViewController" customModule="Swift_Karuta" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="pQx-jc-eJR">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="SwiftKaruta-Cover.png" translatesAutoresizingMaskIntoConstraints="NO" id="XFe-rv-uyp">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="p0f-Lb-T9a"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="y6T-wC-raa" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-878.26086956521749" y="-173.4375"/>
+        </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="ukf-Rc-kZy">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="qaG-Lv-ANT" userLabel="First Responder" sceneMemberID="firstResponder"/>
-                <tabBarController id="3Kh-8v-gO6" sceneMemberID="viewController">
+                <tabBarController storyboardIdentifier="TabBarController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="3Kh-8v-gO6" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="GBJ-91-Pq0">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -57,8 +77,12 @@
                         <segue destination="Etd-MK-U0z" kind="relationship" relationship="viewControllers" id="0XG-81-jA1"/>
                     </connections>
                 </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qaG-Lv-ANT" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-83" y="-163"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="SwiftKaruta-Cover.png" width="231.42857360839844" height="501.1199951171875"/>
+    </resources>
 </document>

@@ -22,7 +22,7 @@ class PlayKaruta: UIViewController {
     // 画面構築
     func layout(){
         pageLabel = UILabel()
-        pageLabel!.frame = CGRect(x:20, y:80, width:self.view.bounds.size.width, height:20)
+        pageLabel!.frame = CGRect(x:20, y:80, width:100, height:100)
         pageLabel!.text = "Tab1"
         self.view.addSubview(pageLabel!)
     }

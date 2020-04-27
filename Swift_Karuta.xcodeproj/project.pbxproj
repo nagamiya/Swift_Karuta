@@ -16,6 +16,8 @@
 		C3807A8A2453347100DA3D55 /* Swift_KarutaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3807A892453347100DA3D55 /* Swift_KarutaUITests.swift */; };
 		C3807A98245484CB00DA3D55 /* PlayKaruta.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3807A97245484CB00DA3D55 /* PlayKaruta.swift */; };
 		C3807A9A24548A4700DA3D55 /* ShowResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3807A9924548A4700DA3D55 /* ShowResult.swift */; };
+		C3807AA52455BA8200DA3D55 /* SwiftKaruta-Cover.png in Resources */ = {isa = PBXBuildFile; fileRef = C3807AA42455BA8100DA3D55 /* SwiftKaruta-Cover.png */; };
+		C3807AA72455BB0A00DA3D55 /* bananaslip.otf in Resources */ = {isa = PBXBuildFile; fileRef = C3807AA62455BB0A00DA3D55 /* bananaslip.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		C3807A8B2453347100DA3D55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C3807A97245484CB00DA3D55 /* PlayKaruta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayKaruta.swift; sourceTree = "<group>"; };
 		C3807A9924548A4700DA3D55 /* ShowResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowResult.swift; sourceTree = "<group>"; };
+		C3807AA42455BA8100DA3D55 /* SwiftKaruta-Cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SwiftKaruta-Cover.png"; sourceTree = "<group>"; };
+		C3807AA62455BB0A00DA3D55 /* bananaslip.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = bananaslip.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		C3807A682453346D00DA3D55 /* Swift_Karuta */ = {
 			isa = PBXGroup;
 			children = (
+				C3807AA62455BB0A00DA3D55 /* bananaslip.otf */,
+				C3807A9D24558F7700DA3D55 /* images_SwfitKaruta */,
 				C3807A692453346D00DA3D55 /* AppDelegate.swift */,
 				C3807A6B2453346D00DA3D55 /* ViewController.swift */,
 				C3807A6D2453346D00DA3D55 /* Main.storyboard */,
@@ -129,6 +135,14 @@
 				C3807A8B2453347100DA3D55 /* Info.plist */,
 			);
 			path = Swift_KarutaUITests;
+			sourceTree = "<group>";
+		};
+		C3807A9D24558F7700DA3D55 /* images_SwfitKaruta */ = {
+			isa = PBXGroup;
+			children = (
+				C3807AA42455BA8100DA3D55 /* SwiftKaruta-Cover.png */,
+			);
+			path = images_SwfitKaruta;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,8 +250,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3807A742453347000DA3D55 /* LaunchScreen.storyboard in Resources */,
+				C3807AA52455BA8200DA3D55 /* SwiftKaruta-Cover.png in Resources */,
 				C3807A712453347000DA3D55 /* Assets.xcassets in Resources */,
 				C3807A6F2453346D00DA3D55 /* Main.storyboard in Resources */,
+				C3807AA72455BB0A00DA3D55 /* bananaslip.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
